@@ -1,0 +1,10 @@
+'name:balance
+
+  balanceRequest:{id=String}
+
+  balanceResponse:{balance=String}
+
+  fallbackmathodrequired:Y
+
+  crudrequired:N'
+
