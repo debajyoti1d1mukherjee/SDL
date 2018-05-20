@@ -1,4 +1,4 @@
-'name:balance123
+'name:balance12
   balanceRequest:{id=String}
   balanceResponse:{balance=String}
   fallbackmathodrequired:Y
