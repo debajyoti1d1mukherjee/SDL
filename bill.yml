@@ -1,0 +1,9 @@
+'name:bill
+
+  billRequest:{id=String}
+
+  billResponse:{bill=String}
+
+  fallbackmathodrequired:Y
+
+  crudrequired:N'

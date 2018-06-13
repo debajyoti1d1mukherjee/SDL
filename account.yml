@@ -1,0 +1,9 @@
+'name:account
+
+  accountRequest:{id=String}
+
+  accountResponse:{account=String}
+
+  fallbackmathodrequired:Y
+
+  crudrequired:N'

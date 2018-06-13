@@ -1,0 +1,9 @@
+'name:product
+
+  productRequest:{id=String}
+
+  productResponse:{product=String}
+
+  fallbackmathodrequired:Y
+
+  crudrequired:N'

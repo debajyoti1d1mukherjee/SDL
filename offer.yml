@@ -1,0 +1,9 @@
+'name:offer
+
+  offerRequest:{id=String}
+
+  offerResponse:{offer=String}
+
+  fallbackmathodrequired:Y
+
+  crudrequired:N'
