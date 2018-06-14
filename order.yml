@@ -1,9 +1,0 @@
-'name:order
-
-  orderRequest:{id=String}
-
-  orderResponse:{order=String}
-
-  fallbackmathodrequired:Y
-
-  crudrequired:N'
