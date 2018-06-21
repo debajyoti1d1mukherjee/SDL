@@ -1,9 +1,5 @@
 'name:Balance
-
   balanceRequest:{id=String}
-
   balanceResponse:{balance=String}
-
   fallbackmathodrequired:Y
-
   crudrequired:N'
