@@ -1,4 +1,4 @@
-'name:balance
+'name:Balance
 
   balanceRequest:{id=String}
 
