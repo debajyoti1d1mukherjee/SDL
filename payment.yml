@@ -1,0 +1,9 @@
+'name:payment
+
+  paymentRequest:{id=String}
+
+  paymentResponse:{payment=String}
+
+  fallbackmathodrequired:Y
+
+  crudrequired:N'
